@@ -1,0 +1,25 @@
+.card{
+    margin-top: 5%;
+    width: 35rem;
+    margin-left: 30rem;
+    margin-right: 10rem;
+    height:33rem;
+}
+
+.card-header{
+    justify-content:center;
+}
+
+.card-body{
+    margin-left: -140px;
+}
+.card-title{
+  /* margin-left:-100px; */
+  margin-right: 10px;
+  margin-top: 8%;
+}
+
+.card-footer{
+    margin-top: 10%;
+    /* margin-left:-100px;  */
+}

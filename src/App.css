@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html,
+body {
+	height: 0;
+}
+#container {
+	min-height: 100vh;
+}
+
+.newannonce {
+	/* position: fixed; */
+	float: right;
+	background: grey;
+	height: 100%;
+	width: 200px;
+	margin-top: 64px;
+}
+
+#footer {
+	position: relative;
+	height: 100px;
+	margin-top: 100px;
+	clear: both;
+}

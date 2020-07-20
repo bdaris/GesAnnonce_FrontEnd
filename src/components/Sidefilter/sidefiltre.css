@@ -1,0 +1,42 @@
+.firstfilter{
+    margin-left:10px;
+    margin-top: 50px;
+}
+
+.titlefirstfilter{
+    cursor: pointer;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.secondfilter{
+    margin-left:10px ;
+    margin-top: 50px;
+}
+.filterSuperficie{
+    display: inline;
+}
+
+.minSuperficie{
+    width: 10px;
+}
+.maxSuperficie{
+    width: 10rem;
+}
+
+.filterPrix{
+    display: inline;
+}
+
+/* .minPrix{
+    width: 60px;
+}
+
+.maxPrix{
+    width: 60px;
+} */
+.thirdfilter{
+    margin-left:10px ;
+    margin-top: 50px;
+}

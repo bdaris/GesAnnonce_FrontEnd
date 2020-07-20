@@ -1,0 +1,22 @@
+.form{
+    margin-left: 10rem;
+    margin-top: 1rem;
+}
+
+#email{
+    margin-left: 2px;
+    margin-top: 1rem;
+}
+
+#mdp{
+    margin-left: 2px;
+    margin-top: 1rem;
+}
+
+.form-check{
+    margin-top: 1rem;
+}
+
+.button{
+    margin-top: 2rem;
+}

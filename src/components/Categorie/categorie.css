@@ -1,0 +1,97 @@
+ #lien{
+   text-align: center;
+ }
+ /*.main-carousel{
+  /*height: 200px;
+  /*margin-top: 50px;
+
+} */
+.cell{
+  
+   width: 16%;
+   height:260px; 
+   margin:0 15px;
+   display: inline-block;
+   overflow: hidden;
+  border-radius: 8px;
+  overflow: hidden;
+  /*border:3px solid black;*/
+  
+}
+.cell img{
+  /*margin-top: 20px;
+  /*border-radius: 30px 30px 30px 30px;*/
+  width: 100%;
+  height:190px;
+  object-fit: cover; 
+}
+/* .flickity-prev-next-button.previous{
+  width:30px;
+  height: px;
+  position: relative;
+  left:-40px
+  }
+  .flickity-prev-next-button.next{
+    width:30px;
+    height: px;
+    position: relative;
+    left:-40px
+    } */
+/*@media only screen and ()
+/* .carousel-cell2{
+  width: 9rem;
+  margin-left: 1rem;
+  display: inline-block;
+  overflow: hidden;
+}
+.carousel-cell2 img{
+  margin-top: 20px;
+  border-radius: 30px 30px 30px 30px; 
+  width: 180px;
+  height:180px ;
+  object-fit: cover;
+}
+
+.carousel-cell3{
+  width: 9rem;
+  margin-left: 1rem;
+  display: inline-block;
+  overflow: hidden;
+}
+.carousel-cell3 img{
+  margin-top: 20px;
+  border-radius: 30px 30px 30px 30px; 
+  width: 180px;
+  height:180px ;
+  object-fit: cover;
+}
+
+.carousel-cell4{
+  width: 9rem;
+  margin-left: 1rem;
+  display: inline-block;
+  overflow: hidden;
+}
+.carousel-cell4 img{
+  margin-top: 20px;
+  border-radius: 30px 30px 30px 30px; 
+  width: 180px;
+  height:180px ;
+  object-fit: cover;
+}
+
+.carousel-cell5{
+  width: 9rem;
+  margin-left: 1rem;
+  display: inline-block;
+  overflow: hidden;
+}
+.carousel-cell5 img{
+  margin-top: 20px;
+  border-radius: 30px 30px 30px 30px; 
+  width: 180px;
+  height:180px ;
+  object-fit: cover;
+}
+ */
+

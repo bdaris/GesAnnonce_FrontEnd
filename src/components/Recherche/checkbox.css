@@ -1,0 +1,23 @@
+#button{
+    display: flex;
+    margin-left: 21rem;
+    margin-top: 20px;
+    color: white;
+    background-color: #1a8bdb;
+}
+
+.checkbox{
+    size: 10px;
+}
+
+.columns{
+    margin-top: 20px;
+}
+
+.column2{
+    margin-left:-70px;
+}
+
+.column4{
+    margin-left:-70px;
+}
